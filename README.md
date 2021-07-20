@@ -15,3 +15,6 @@ This is a demo for sharing ideas
 This is a good example of [my code](https://gist.github.com/subratabhowwmik/5dc3ce00bdbf0b0409000af08af197e4)
 ### colab example
 this is example of [notebook](https://colab.research.google.com/drive/1F7v2KsIpBt9xlQXZhn75U4BQvtAZun3N#scrollTo=ub-YUMtnlKDu)
+
+###Image
+https://github.com/subratabhowwmik/technical-discussion/issues/1#issuecomment-883509469
