@@ -17,4 +17,5 @@ This is a good example of [my code](https://gist.github.com/subratabhowwmik/5dc3
 this is example of [notebook](https://colab.research.google.com/drive/1F7v2KsIpBt9xlQXZhn75U4BQvtAZun3N#scrollTo=ub-YUMtnlKDu)
 
 ###Image
-https://github.com/subratabhowwmik/technical-discussion/issues/1#issuecomment-883509469
+![Capture](https://user-images.githubusercontent.com/40295018/126358684-d0b3272b-880f-40da-a3c3-fe9e6499f3f9.JPG)
+
